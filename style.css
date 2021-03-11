@@ -1,0 +1,24 @@
+
+body {
+  background-color: black;
+
+}
+
+.text {
+  color: white;
+  text-align: center;
+  vertical-align: center;
+}
+
+#boxOuter {
+  padding: 20em;
+}
+
+.border {
+  border: 5px solid white;
+
+}
+
+.divider {
+padding: 5em;
+}
